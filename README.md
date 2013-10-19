@@ -5,8 +5,8 @@ aleatoriamente, por exemplo), o estado seguinte da grade é determinado através
 
 </br>
 <i>
-• Uma célula viva com menos de 2 vizinhos morre.
-• Uma célula viva com mais de 3 vizinhos morre.
+• Uma célula viva com menos de 2 vizinhos morre.</br>
+• Uma célula viva com mais de 3 vizinhos morre.</br>
 • Uma célula viva aparece quando tem 3 vizinhos vivos exatamente.
 </i>
 </br>
