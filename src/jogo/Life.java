@@ -53,7 +53,7 @@ public class Life {
 
 	}
 
-	public int[][] iteracao() {
+	private int[][] iteracao() {
 		int aux[][] = new int[this.qtdColunas][this.qtdColunas];
 
 		for (int i = 0; i < qtdColunas; i++) {

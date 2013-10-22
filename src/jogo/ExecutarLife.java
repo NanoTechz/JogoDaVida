@@ -8,6 +8,7 @@ public class ExecutarLife {
 		int tamanho = receberTamanho();
 		int qtdSimulacoes;
 		int aux[][] = new int[tamanho][tamanho];
+		
 		Life life = new Life(tamanho);
 
 		for (int i = 0; i < tamanho; i++) {
